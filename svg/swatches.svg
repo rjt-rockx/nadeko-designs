@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-3477 1460 1920 456">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-swatches);
+      }
+
+      .cls-2 {
+        fill: #8d0039;
+      }
+
+      .cls-3 {
+        fill: #a00041;
+      }
+
+      .cls-4 {
+        fill: #b40049;
+      }
+
+      .cls-5 {
+        fill: #d90058;
+      }
+
+      .cls-6 {
+        fill: #ff0067;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-swatches">
+      <rect x="-3477" y="1460" width="1920" height="456"/>
+    </clipPath>
+  </defs>
+  <g id="swatches" class="cls-1">
+    <rect class="cls-7" x="-3477" y="1460" width="1920" height="456"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="319.595" height="456" transform="translate(-3477 1460)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-3" width="319.595" height="456" transform="translate(-3156.919 1460)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-4" width="319.595" height="456" transform="translate(-2836.838 1460)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-5" width="319.595" height="456" transform="translate(-2516.757 1460)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-6" width="319.595" height="456" transform="translate(-2196.676 1460)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-7" width="319.595" height="456" transform="translate(-1876.595 1460)"/>
+  </g>
+</svg>

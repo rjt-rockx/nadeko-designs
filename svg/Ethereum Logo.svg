@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7823 2620 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #8c8c8c;
+      }
+
+      .cls-4 {
+        fill: #393939;
+      }
+
+      .cls-5 {
+        fill: #343434;
+      }
+
+      .cls-6 {
+        fill: #151515;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_338" data-name="Rectangle 338" width="100" height="100" transform="translate(0 0.003)"/>
+    </clipPath>
+  </defs>
+  <g id="Ethereum_Logo" data-name="Ethereum Logo" transform="translate(7733 2495)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-1" cx="75" cy="75" r="75" transform="translate(90 125)"/>
+    <g id="Group_671" data-name="Group 671" class="cls-2" transform="translate(115 149.997)">
+      <g id="ethereum" transform="translate(-111.4 -51.197)">
+        <path id="Path_260" data-name="Path 260" class="cls-3" d="M161.088,51.2h0L130.4,102.128l30.688-13.965V51.2" transform="translate(0 0)"/>
+        <path id="Path_261" data-name="Path 261" class="cls-4" d="M161.088,202.6h0L130.4,216.565l30.688,18.14V202.6" transform="translate(0 -114.437)"/>
+        <path id="Path_262" data-name="Path 262" class="cls-5" d="M256.1,51.2h0V88.163l30.688,13.965L256.1,51.2" transform="translate(-95.011 0)"/>
+        <path id="Path_263" data-name="Path 263" class="cls-6" d="M256.1,202.6h0v32.1l30.688-18.14L256.1,202.6" transform="translate(-95.011 -114.437)"/>
+        <path id="Path_264" data-name="Path 264" class="cls-3" d="M130.4,283.7h0l30.688,43.237V301.815L130.4,283.7" transform="translate(0 -175.737)"/>
+        <path id="Path_265" data-name="Path 265" class="cls-5" d="M286.813,283.7h0L256.1,301.815v25.122L286.813,283.7" transform="translate(-95.011 -175.737)"/>
+      </g>
+    </g>
+  </g>
+</svg>

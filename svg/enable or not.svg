@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 480 320">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-enable_or_not);
+      }
+
+      .cls-2 {
+        fill: #8d0039;
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-7, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 20px;
+        font-family: WhitneyHTF-SemiBoldSC, Whitney HTF SC;
+      }
+
+      .cls-4, .cls-5, .cls-9 {
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        opacity: 0.2;
+      }
+
+      .cls-6 {
+        font-size: 21px;
+        font-family: WhitneyHTF-Bold, Whitney HTF;
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-7 {
+        font-family: WhitneyHTF-Book, Whitney HTF;
+      }
+
+      .cls-8 {
+        fill: #b40049;
+      }
+
+      .cls-9 {
+        font-family: WhitneyHTF-SemiBold, Whitney HTF;
+      }
+
+      .cls-10 {
+        fill: rgba(34,31,31,0.26);
+        fill-rule: evenodd;
+      }
+
+      .cls-11 {
+        fill: #f1f1f1;
+        stroke: rgba(0,0,0,0);
+        stroke-width: 0.5px;
+      }
+
+      .cls-12 {
+        filter: url(#switch_button);
+      }
+    </style>
+    <filter id="switch_button" x="419.45" y="277.75" width="24.5" height="24.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-enable_or_not">
+      <rect width="480" height="320"/>
+    </clipPath>
+  </defs>
+  <g id="enable_or_not" data-name="enable or not" class="cls-1">
+    <rect class="cls-3" width="480" height="320"/>
+    <g id="Group_28" data-name="Group 28">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="480" height="320"/>
+      <g id="Group_2" data-name="Group 2">
+        <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="240" height="48" transform="translate(240)"/>
+        <text id="logs" class="cls-4" transform="translate(360 32)"><tspan x="-19.21" y="0">logs</tspan></text>
+      </g>
+      <text id="miner" class="cls-5" transform="translate(120 32)"><tspan x="-24.88" y="0">miner</tspan></text>
+      <text id="Enable_the_Nadeko_cryptocurrency_miner_" data-name="Enable the Nadeko cryptocurrency miner?" class="cls-6" transform="translate(240 112)"><tspan x="-187.992" y="0">Enable the Nadeko cryptocurrency miner?</tspan></text>
+      <text id="This_makes_use_of_your_device_s_processing_power_to_generate_revenue_and_to_get_you_Nadeko_flowers._Your_browser_needs_to_support_and_allow_cryptocurrency_mining_for_this_to_work." data-name="This makes use of your device&apos;s processing 
+power to generate revenue and to get you Nadeko flowers. Your browser needs to support and allow
+cryptocurrency mining for this to work." class="cls-7" transform="translate(240 155)"><tspan x="-143.376" y="0">This makes use of your device&apos;s processing </tspan><tspan x="-166.312" y="18">power to generate revenue and to get you Nadeko </tspan><tspan x="-162.96" y="36">flowers. Your browser needs to support and allow</tspan><tspan x="-128.392" y="54">cryptocurrency mining for this to work.</tspan></text>
+      <g id="Group_9" data-name="Group 9">
+        <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-8" width="480" height="64" transform="translate(0 256)"/>
+        <text id="Nadeko_miner_is_disabled." data-name="Nadeko miner is disabled." class="cls-9" transform="translate(64 294)"><tspan x="0" y="0">Nadeko miner is disabled.</tspan></text>
+        <g id="switch_off_light" transform="translate(115.7 173)">
+          <path id="switch_path" class="cls-10" d="M27.3,15.6H9.3A6.3,6.3,0,1,1,9.3,3h18a6.3,6.3,0,0,1,0,12.6Z" transform="translate(306.7 105.7)"/>
+          <g class="cls-12" transform="matrix(1, 0, 0, 1, -115.7, -173)">
+            <path id="switch_button-2" data-name="switch_button" class="cls-11" d="M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" transform="translate(422.7 279)"/>
+          </g>
+        </g>
+        <path id="ic_info_24px" class="cls-3" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm1,15H11V11h2Zm0-8H11V7h2Z" transform="translate(20 276)"/>
+      </g>
+    </g>
+  </g>
+</svg>

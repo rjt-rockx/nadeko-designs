@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7402 2620 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #f26822;
+      }
+
+      .cls-4 {
+        fill: #4d4d4d;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_162" data-name="Rectangle 162" width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Monero_Logo" data-name="Monero Logo" transform="translate(7312 2495)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-1" cx="75" cy="75" r="75" transform="translate(90 125)"/>
+    <g id="Group_296" data-name="Group 296" transform="translate(115 150)">
+      <g id="Group_295" data-name="Group 295" class="cls-2">
+        <path id="Path_106" data-name="Path 106" class="cls-1" d="M546.722,1224.768h0L535.9,1214.721v-25.062a1.666,1.666,0,0,0-2.844-1.178l-25.944,25.944-25.947-25.944a1.666,1.666,0,0,0-2.844,1.178v25.064l-10.82,10.044h0a41.514,41.514,0,0,0,3.947,8.507h0l35.664,13.489,35.664-13.489h0a41.687,41.687,0,0,0,3.947-8.507Z" transform="translate(-457.111 -1161.593)"/>
+        <path id="_149931032_2_" class="cls-3" d="M413.927,371.8a41.78,41.78,0,0,0-39.611,54.913H386.8V391.6l27.124,27.124L441.05,391.6v35.109h12.489A41.771,41.771,0,0,0,413.927,371.8Z" transform="translate(-363.927 -363.538)"/>
+        <path id="_149931160_2_" class="cls-4" d="M662.689,2231.5v22.091l-17.589,0a41.738,41.738,0,0,0,71.331,0H698.838V2231.5l-18.073,18.073Z" transform="translate(-630.764 -2181.911)"/>
+      </g>
+    </g>
+  </g>
+</svg>
